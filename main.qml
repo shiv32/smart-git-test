@@ -28,7 +28,7 @@ Window {
         anchors.left: lightgreenrect.right
         Text {
             anchors.centerIn: parent
-            text: qsTr("test4")
+            text: qsTr("test7")
         }
     }
 }
